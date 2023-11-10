@@ -3,7 +3,7 @@
 ## I. Project Title ## 
 Mixed Message for Words of encouragement
 
-##II. Description##
+## II. Description ##
 
 This application generates random worker names, tasks and speed performance for a job.
 Performance based on this speed value, the application will provide words of encouragement for the results that have been given (supervisor role - spv), and words to always improve performance (human resource role - hr)
